@@ -1,6 +1,6 @@
-# 👨‍💻 Azaan Waseem
+# Hi! 👋 I'm Azaan Waseem 👨‍💻
 
-Hi! I'm a computer science student at UT Austin focused on full-stack development, robotics, and applied AI. I enjoy solving real-world problems through thoughtful software design and engineering.
+I am a computer science student at UT Austin focused on full-stack development, robotics, and applied AI. I enjoy solving real-world problems through thoughtful software design and engineering.
 
 ---
 
