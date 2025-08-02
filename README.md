@@ -5,8 +5,8 @@ I am a computer science student at UT Austin focused on full-stack development, 
 ---
 
 ## ⚡ Current Focus
-- 🤖 Research in AI & robotics (ROS, point cloud processing, planning)
 - 💻 Full-stack development with Flask + React
+- 🤖 Research in AI & robotics (ROS, point cloud processing, planning)
 - 📊 Expanding knowledge in systems, data science, and ML
 
 ---
